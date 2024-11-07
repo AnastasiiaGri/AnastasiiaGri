@@ -11,7 +11,7 @@
 JavaScript, Cypress, iOS, Android, AWS (Grafana), Postman, Nexus, Bitbucket, Python, Node.js, Mocha, Chai, CSS, HTML,  PostgreSQL Docker, pgAdmin
 
 
- **Work sample**
+ **Work sample:**
 
 - [Automated-Testing-With-Cypress](https://github.com/AnastasiiaGri/Automated-Testing-With-Cypress.git)
 
