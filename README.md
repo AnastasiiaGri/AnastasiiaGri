@@ -14,6 +14,7 @@ JavaScript, Cypress, iOS, Android, AWS (Grafana), Postman, Nexus, Bitbucket, Pyt
  **Work sample:**
 
 - [Automated-Testing-With-Cypress](https://github.com/AnastasiiaGri/Automated-Testing-With-Cypress.git)
+- [Sauce Demo – Test Cases & Bug Reports samples](https://western-fuschia-9fc.notion.site/Sauce-Demo-QA-Work-Samples-1a8a5df2ff5a8096ae07d249e4d64653)
 
 📫 **Get in Touch:**  
 
